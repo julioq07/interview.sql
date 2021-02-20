@@ -26,6 +26,8 @@ In the following, a description of the data is presented.
 * latitude: Latitude coordinate of the location.
 * longitude: Longitude coordinate of the location.
 
+***
+
 ## Problems
 
 1. Write the SQL queries necessary to generate a list of the five restaurants that have the
@@ -38,4 +40,6 @@ restaurants.
 3. How was the percentage of growth of the amount of visitors week over week for the
 last four weeks of the data? Use SQL too.
 
-4. Obtain the top 3 restaurants on visits for each day of the week.
+***
+
+This project was made on VSCode and Ubuntu 20.04
